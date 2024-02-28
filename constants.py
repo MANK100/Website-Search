@@ -1,3 +1,3 @@
-WEBSITE_URL="//www.cognizant.com/us-en-sitemap.xml"
+WEBSITE_URL="https://www.cognizant.com/us-en-sitemap.xml"
 PINECONE_ENVIRONMENT="gcp-starter"
 PINECONE_INDEX="chatbot"
